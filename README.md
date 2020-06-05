@@ -1,9 +1,27 @@
 # crypto-portfolio-optimization
 Optimization of Crypto Portfolio using Python
 
-# Starting the script
+# Pre-requisits
+1) Python - https://www.python.org/downloads/
+2) Packages
+  - pip install pandas
+  - pip install numpy
+  - pip install json
+  - pip install bs4
+  - pip install requests
+  - pip install matplotlib
 
-python optimise.py
+# Pulling Asset data
+python assetData.py
+
+# Calculating Price Performance
+python priceData.py
+
+# Calculating Asset Correlations
+python correlations.py
+
+# Measuring Portfolio Efficient Frontier for daily rebalancing
+python frontier.py
 
 # Karma Jar
 BTC - 112eMCQJUkUz7kvxDSFCGf1nnFJZ61CE4W
