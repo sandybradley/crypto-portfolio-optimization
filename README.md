@@ -1,7 +1,7 @@
 # crypto-portfolio-optimization
 Optimization of Crypto Portfolio using Python
 
-# Pre-requisits
+# Pre-requisites
 1) Python - https://www.python.org/downloads/
 2) Packages
   - pip install pandas
